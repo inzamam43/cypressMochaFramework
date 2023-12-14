@@ -1,0 +1,21 @@
+{
+  "name": "lastestcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.12.13",
+    "cypress-xpath": "^2.0.1",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3",
+    "playwright-webkit": "1.34"
+  }
+}
